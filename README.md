@@ -68,4 +68,4 @@ pm2 save
 
 See https://docs.ZentCash.io/blockapi/ for the full REST API provided by this package.
 
-###### (c) 2018 ZentCash™ Development Team
+###### (c) 2019 ZentCash™ Development Team
